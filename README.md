@@ -28,3 +28,5 @@ compiler-project/
 │── index.html
 │── style.css
 │── script.js
+
+all the structure and process is provided 
